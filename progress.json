@@ -1,20 +1,9 @@
 [
   {
-    "exercise_name": "undo-init",
-    "started_at": 1787194886.325683,
-    "completed_at": 1787194887.726296,
-    "comments": [
-      "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1787195018.687052,
-    "completed_at": 1787195020.126413,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
+    "exercise_name": "log-and-order",
+    "started_at": 1787201284.054029,
+    "completed_at": 1787201285.636022,
+    "comments": [],
     "status": "Completed"
   },
   {
@@ -36,10 +25,30 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "log-and-order",
-    "started_at": 1787201284.054029,
-    "completed_at": 1787201285.636022,
-    "comments": [],
+    "exercise_name": "under-control",
+    "started_at": 1787195018.687052,
+    "completed_at": 1787195020.126413,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787194886.325683,
+    "completed_at": 1787194887.726296,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787242465.084862,
+    "completed_at": 1787242565.912741,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   }
 ]
